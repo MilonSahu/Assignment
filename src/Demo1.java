@@ -16,7 +16,7 @@ public class Demo1 {
 		s2[i++]=(String)i1.next();
 		
 		}System.out.println(Arrays.toString(s2));
-
+//hi i am milon
 	}
 
 }
